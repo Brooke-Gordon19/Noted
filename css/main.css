@@ -35,7 +35,7 @@ button, .button {
 /* MAIN */
 
 h1 {
-	font-family: 'Bitter', serif; 
+	font-family: 'Bitter', serif;
 }
 
 h4 {
@@ -55,12 +55,28 @@ h2 {
 	font-size: 2rem;
 }
 
+h6 {
+	font-family: 'Bitter', serif;
+	font-size: 2rem;
+	text-align: center;
+	padding-top: 2rem;
+}
+
+div.row {
+	padding-bottom: 3rem;
+}
+
 div.column.medium-6 {
 	padding-bottom: 4rem;
 }
 
 div.column.medium-4 {
 	padding-bottom: 3rem;
+}
+
+div.panel.radius {
+	background: #ffffff;
+	border-color: none;
 }
 
 /*Footer */
